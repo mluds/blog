@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <span>
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </span>
+      <span>{{ post.date | date: site.data.config.date_format }}</span>
+    </li>
+  {% endfor %}
+</ul>
