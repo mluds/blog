@@ -4,7 +4,7 @@ title: "Digital Minimalism"
 date: 2020-05-30
 ---
 
-Here is my take-away from reading [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport. I would also recommend the episode [One: Wonderland](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) from the Rabbit Hole podcast as a motivation for this content.
+Here is my take-away from reading [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"} by Cal Newport. I would also recommend the episode [One: Wonderland](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html){:target="_blank"} from the Rabbit Hole podcast as a motivation for this content.
 
 Digital minimalism is a method and ideology to minimize the negative side-effects of digital technology while maximizing the value it provides. It also incorporates ideas about how to best spend the leisure time freed up by the absence of low-value technology use.
 
