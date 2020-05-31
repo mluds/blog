@@ -4,8 +4,6 @@ title: "Digital Minimalism"
 date: 2020-05-30
 ---
 
-# Digital Minimalism
-
 Here is my take-away from reading Digital Minimalism by Cal Newport. I would also recommend the episode "One: Wonderland" from the Rabbit Hole podcast as a motivation for this content.
 
 Digital minimalism is a method and ideology to minimize the negative side effects of digital technology while maximizing the value it provides. It also incorporates ideas about how to best spend the leisure time freed up by the absence of low-value technology use.
